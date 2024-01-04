@@ -8,4 +8,8 @@ The Business Layer, represented by the DataManager class, facilitates data opera
 The Presentation Layer offers a command-line interface with menu-driven options, including record creation, editing, deletion, and visualization through horizontal bar charts.
 Implemented unit tests using unittest to ensure functionality and data integrity.
 
+
+![Option](https://github.com/dlwngh1367/Data-Synthesis-Project/assets/107776511/2752ac0c-3cc1-4392-9e9a-9ba68d690281)
+
+
 ![Horizontal Bar Chart](https://github.com/dlwngh1367/Data-Synthesis-Project/assets/107776511/fd1c9d04-a903-4251-80bd-4a7a7b438d99)
